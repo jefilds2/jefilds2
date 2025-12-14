@@ -15,7 +15,7 @@ Desenvolvedor **Full Stack** focado em **landing pages rápidas**, **integraçõ
 **Front-end:** HTML5 • CSS3 • JavaScript  
 **Back-end:** PHP / Node.js (quando aplicável) • APIs REST • Webhooks  
 **Banco de dados:** MySQL • SQL  
-**Ferramentas:** Git • GitHub • Linux • Deploy (Netlify/cPanel)
+**Ferramentas:** Git • GitHub  • Deploy (cPanel)
 
 ## ⭐ Projetos em destaque
 ### 🚗 Classi Livre Autos
