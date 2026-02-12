@@ -8,13 +8,13 @@ Desenvolvedor **Full Stack** focado em **landing pages rápidas**, **integraçõ
 ## 🔗 Links
 - Portfólio: https://jeffersonmiranda.netlify.app
 - Projeto (Case): https://www.classilivreautos.com
-- LinkedIn: https://www.linkedin.com/in/jefferson-aparecido-rodrigues-miranda-095a60200/
+- LinkedIn: www.linkedin.com/in/jefferson-miranda-dfs
 - Instagram: https://www.instagram.com/jeffemaker/
 
 ## 🧰 Stack
 **Front-end:** HTML5 • CSS3 • JavaScript  
 **Back-end:** PHP / Node.js (quando aplicável) • APIs REST • Webhooks  
-**Banco de dados:** MySQL • SQL  
+**Banco de dados:** MySQL • SQL  • PostgreSQL • MongoDB 
 **Ferramentas:** Git • GitHub  • Deploy (cPanel)
 
 ## ⭐ Projetos em destaque
