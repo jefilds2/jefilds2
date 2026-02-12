@@ -1,5 +1,5 @@
 # Jefferson Miranda 👋
-Desenvolvedor **Full Stack** focado em **landing pages rápidas**, **integrações web** e soluções que transformam visitas em contatos e vendas.
+Desenvolvedor **Full Stack** focado em **Sites e landing pages rápidas**, **integrações web** e soluções que transformam visitas em contatos e vendas.
 
 - 🚀 Atualmente: **freelancer** criando **landing pages de alta conversão** e integrações (WhatsApp, formulários, pagamentos) para gerar **contatos e vendas**.
 - 📍 Brasil (MG)
