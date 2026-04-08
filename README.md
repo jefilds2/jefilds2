@@ -1,71 +1,196 @@
-Jefferson Aparecido Rodrigues Miranda | Desenvolvedor Full Stack Júnior
-📍 Guanhães, Minas Gerais – Brasil
-📧 jefferson.bioconsultor@gmail.com | 📞 +55 (33) 9 8749-4050 (WhatsApp)
-GitHub: https://github.com/jefilds2
-LinkedIn: https://www.linkedin.com/in/jefferson-miranda-dfs
-Instagram: https://www.instagram.com/jeffemaker/
-Portfólio: https://jeffersonmiranda.netlify.app
-Projeto (Case): https://www.classilivreautos.com
+# Jefferson Miranda
 
-Resumo Profissional
-Desenvolvedor Full Stack Júnior com experiência em desenvolvimento web front-end e back-end usando React.js, JavaScript (ES6+), Node.js, PHP, HTML5, CSS3 e bancos de dados relacionais e NoSQL (MySQL, PostgreSQL, MongoDB). Experiência prática em projetos freelance e pessoais, com foco em criação de interfaces responsivas, integração e consumo de APIs REST e webhooks, aplicação de boas práticas de SEO, performance web e versionamento com Git/GitHub. Proativo, com habilidades em resolução de problemas, comunicação e aprendizado contínuo.
+**Full Stack Developer | React.js | JavaScript | Node.js | PHP | MySQL | MongoDB**
 
-Competências Técnicas
-Linguagens e Frameworks
-JavaScript (ES6+), React.js, HTML5, CSS3 (incluindo CSS Grid, Flexbox)
+📍 Guanhães, Minas Gerais, Brazil  
+📧 [jefferson.bioconsultor@gmail.com](mailto:jefferson.bioconsultor@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jefferson-miranda-dfs/) • [Portfolio](https://jeffersonmiranda.netlify.app) • [GitHub](https://github.com/jefilds2) • [Classi Livre Autos](https://classilivreautos.com)
 
-Node.js, Express.js (básico), PHP
+---
 
-APIs e Integrações
-Desenvolvimento e consumo de APIs RESTful
+## About Me
 
-Webhooks para automação e integração de sistemas
+I am a **Full Stack Developer** with hands-on experience building **responsive web applications**, **admin panels**, **authentication systems**, **REST API integrations**, and **SEO-oriented websites**.
 
-Banco de Dados
-MySQL, PostgreSQL (básico), MongoDB (básico)
-Ferramentas e Deploy
-Git, GitHub, npm, pnpm, yarn
+My main stack includes **React.js**, **JavaScript (ES6+)**, **Node.js**, **PHP**, **HTML5**, **CSS3**, **MySQL**, **PostgreSQL**, and **MongoDB**.
 
-Deploy em Netlify, Heroku, cPanel
+I am currently positioning myself for opportunities such as **Junior Full Stack Developer**, **Junior Front-End Developer**, and **Web Developer**, with a strong focus on practical projects, clean structure, and continuous growth.
 
-Práticas e Metodologias
-SEO técnico e otimização de performance
+I come from an educational and biomedical background, which strengthened my **communication**, **problem-solving**, **documentation**, and **continuous learning** skills. Today, I focus on creating practical digital solutions with clean structure, performance, and real business value.
 
-Responsividade mobile-first
+---
 
-Versionamento de código
+## Professional Keywords
 
-Testes básicos
+**Full Stack Developer**, **Junior Full Stack Developer**, **Front-end Developer**, **Junior Front-end Developer**, **Web Developer**, **Junior Web Developer**, **React Developer**, **JavaScript Developer**, **Node.js Developer**, **PHP Developer**, **REST APIs**, **Webhooks**, **Responsive Design**, **Mobile-First**, **SEO**, **Performance Optimization**, **Git**, **GitHub**, **MySQL**, **PostgreSQL**, **MongoDB**, **CRUD Applications**, **Admin Dashboard**, **Authentication**, **Deployment**, **Freelance Developer**.
 
-Experiência Profissional
-Desenvolvedor Full Stack (Freelance)
-Guanhães, MG | Out/2023 – Atual
+---
 
-Desenvolvi aplicações web responsivas utilizando React.js, HTML5, CSS3 e JavaScript, garantindo compatibilidade cross-browser e mobile.
+## Tech Stack
 
-Integrei APIs REST e webhooks, automatizando fluxos de dados e reduzindo retrabalho manual em processos de captura e envio de leads.
+### Front-End
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Responsive Design
+- Mobile-First
+- CSS Grid
+- Flexbox
+- Tailwind CSS
+- Styled Components
+- Material UI
 
-Apliquei técnicas de SEO e otimização de performance para melhorar a velocidade de carregamento e posicionamento em mecanismos de busca.
+### Back-End
+- Node.js
+- Express.js
+- PHP
+- REST APIs
+- Webhooks
+- Authentication with JWT
+- Bcrypt
 
-Utilizei Git e GitHub para versionamento e controle colaborativo, realizando deploys em plataformas cloud como Netlify e Heroku.
+### Databases
+- MySQL
+- PostgreSQL
+- MongoDB
 
-Membro do Corpo Docente
-IESGE – Instituto de Ensino e Gestão Educacional | Ago/2017 – Atual
+### Tools
+- Git
+- GitHub
+- npm
+- pnpm
+- yarn
+- Netlify
+- Render
+- cPanel
+- Vercel
 
-Lecionei cursos técnicos, criei materiais didáticos e conduzi orientações, aprimorando habilidades pedagógicas e comunicação técnica.
+### Good Practices
+- SEO
+- Performance Optimization
+- Code Versioning
+- Component Reusability
+- API Integration
+- Basic Testing
+- Cross-browser Compatibility
 
-Formação e Certificações
-Dev Club – Programação (2025 - em andamento)
+---
 
-Unyleya – Especialização em Genética (2019-2020)
+## Featured Projects
 
-Faculdade Única – Biomedicina (2011-2016)
+### Classi Livre Autos
+A regional automotive marketplace platform focused on connecting buyers, sellers, and automotive service providers.
 
-SENAI FIEMG – Microcomputadores e Redes (2013)
+**Highlights:**
+- Vehicle listing system
+- Automotive services catalog
+- Admin panel
+- User authentication
+- SEO-focused structure
+- Public and private flows
 
-Certificações: HTML5, JavaScript, Git & GitHub, CSS Grid
+**Stack:** PHP, MySQL, JavaScript, HTML5, Tailwind CSS
 
-Idiomas
-Inglês: Intermediário
-Contato
-Se você busca um desenvolvedor Full Stack Júnior focado em resultados, integrações eficientes e performance, entre em contato pelo LinkedIn, Instagram ou email!
+🔗 [Live Project](https://classilivreautos.com)
+
+---
+
+### E-commerce Hamburgueria
+A full stack food ordering application developed as part of my learning journey, including catalog, authentication, cart, checkout, and admin features.
+
+**Highlights:**
+- Responsive front-end with React
+- Product and category management
+- Authentication flow
+- Cart and checkout
+- Stripe integration
+- Admin area
+
+**Stack:** React.js, Vite, Node.js, Express.js, Sequelize, PostgreSQL, MongoDB, JWT, Bcrypt, Stripe
+
+🔗 [Repository](https://github.com/jefilds2/ecommerce-burgueria)
+
+---
+
+### Arena Survival AI Boss
+A JavaScript game project featuring a boss powered by adaptive AI logic.
+
+**Highlights:**
+- Game logic in JavaScript
+- Front-end rendering with PixiJS
+- Boss behavior driven by AI integration
+- Progressive difficulty system
+
+**Stack:** JavaScript, PixiJS, Express.js
+
+🔗 [Repository](https://github.com/jefilds2/arena-survival-ai-boss)
+
+---
+
+### Hotel Website
+A real business website project designed as a landing page with SEO focus and administrative structure planning.
+
+**Highlights:**
+- Business presentation page
+- Local SEO structure
+- Room and occupancy management planning
+- Public and admin-oriented architecture
+
+**Stack:** HTML5, CSS3, JavaScript, PHP, MySQL
+
+🔗 [Repository](https://github.com/jefilds2/Hotel-Landing-sistem)
+
+---
+
+## What I Can Contribute
+
+- Build responsive and user-friendly web interfaces
+- Develop full stack web applications
+- Integrate REST APIs and webhooks
+- Create admin panels and CRUD systems
+- Work with relational and NoSQL databases
+- Improve SEO and web performance
+- Organize code with Git and GitHub
+- Learn fast and adapt to real project demands
+
+---
+
+## Background
+
+My professional background in **Biomedicine** helped me develop a structured and analytical way of thinking that I now apply to software development.
+
+In laboratory and technical routines, I learned to understand processes end to end, organize execution steps clearly, follow logical sequences, and focus on accuracy to achieve reliable outcomes. These same principles are highly relevant in programming, especially in **algorithms, back-end logic, debugging, data handling, and system organization**.
+
+This background, combined with my experience in education, also strengthened my communication, documentation, and problem-solving skills.
+
+---
+
+## Education
+
+- **Dev Club** — Full Stack Development *(in progress)*
+- **Postgraduate Specialization in Genetics** — Unyleya
+- **Bachelor's Degree in Biomedicine** — Faculdade Única
+- **Microcomputers and Networks** — SENAI FIEMG
+
+---
+
+## Contact
+
+I am open to opportunities as:
+
+- **Full Stack Developer**
+- **Junior Full Stack Developer**
+- **Front-end Developer**
+- **Junior Front-end Developer**
+- **Web Developer**
+- **React Developer**
+- **PHP Developer**
+
+📧 [jefferson.bioconsultor@gmail.com](mailto:jefferson.bioconsultor@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jefferson-miranda-dfs/)  
+🌐 [Portfolio](https://jeffersonmiranda.netlify.app)
+
+---
+
+Thanks for visiting my profile.
