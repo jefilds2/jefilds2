@@ -103,15 +103,13 @@ Neles é possível encontrar exemplos de:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-<div align="center">
+Meu GitHub reúne projetos de estudo e, principalmente, **soluções desenvolvidas para situações e negócios reais**, envolvendo front-end, back-end, bancos de dados, integrações, pagamentos, autenticação, SEO e deploy.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jefilds2&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br)
+📌 Os projetos mais representativos estão fixados abaixo.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jefilds2&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
+🔗 [Ver todos os meus repositórios](https://github.com/jefilds2?tab=repositories)
 
 ---
 
