@@ -18,7 +18,7 @@ Construindo aplicações web, sistemas e soluções digitais para problemas reai
 
 Sou **Desenvolvedor Full Stack** e atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
-Atuo no desenvolvimento de aplicações web e soluções para negócios, participando desde o entendimento dos requisitos até a implementação, integração com serviços externos, banco de dados, testes, versionamento e deploy.
+Atuo no desenvolvimento de aplicações web e soluções para negócios, participando desde o entendimento dos requisitos até a implementação, integração com serviços externos, banco de dados, testes, versionamento, deploy e entrega da solução.
 
 Gosto especialmente de transformar necessidades reais em software funcional — seja um e-commerce, sistema administrativo, automação ou presença digital para uma empresa.
 
@@ -61,9 +61,9 @@ Minha experiência anterior na saúde e na docência também fortaleceu caracter
 
 ## 🎯 O que eu faço
 
-- ⚛️ Desenvolvimento de interfaces modernas e responsivas com **React**
+- ⚛️ Desenvolvimento de interfaces modernas, responsivas e orientadas à experiência do usuário
 - ⚙️ Desenvolvimento de back-end e **APIs REST**
-- 🗄️ Integração com bancos **SQL e NoSQL**
+- 🗄️ Integração com bancos de dados **SQL e NoSQL**
 - 🔐 Autenticação, controle de acesso e áreas administrativas
 - 🔗 Integrações com APIs, webhooks e serviços externos
 - 💳 Implementação de fluxos de pagamentos
@@ -78,7 +78,7 @@ Utilizo ferramentas de **Inteligência Artificial como apoio ao desenvolvimento 
 
 A IA faz parte do meu fluxo de produtividade, mas não substitui o entendimento técnico: **analiso, valido e testo as soluções antes de incorporá-las aos projetos**.
 
-Também venho explorando aplicações de IA diretamente em software por meio de APIs e automações.
+Também venho explorando aplicações de IA diretamente em software por meio de APIs, automações e integrações.
 
 ---
 
@@ -86,38 +86,21 @@ Também venho explorando aplicações de IA diretamente em software por meio de 
 
 Os repositórios fixados neste perfil representam projetos selecionados que desenvolvi para resolver necessidades reais.
 
-Neles é possível encontrar exemplos de:
+Eles demonstram, na prática, experiência com:
 
-- aplicações Full Stack;
-- e-commerce;
-- sistemas administrativos;
-- autenticação e segurança;
-- bancos de dados;
-- pagamentos e webhooks;
-- integrações com serviços externos;
-- aplicações empresariais responsivas;
-- SEO e performance;
-- documentação técnica e decisões de arquitetura.
+**Full Stack • E-commerce • Sistemas administrativos • APIs e integrações • Pagamentos e webhooks • Autenticação e segurança • SEO e performance**
 
-👇 **Confira os projetos fixados logo abaixo.**
+📌 **Confira os projetos fixados logo abaixo.**
 
----
-
-## 📊 GitHub
-
-Meu GitHub reúne projetos de estudo e, principalmente, **soluções desenvolvidas para situações e negócios reais**, envolvendo front-end, back-end, bancos de dados, integrações, pagamentos, autenticação, SEO e deploy.
-
-📌 Os projetos mais representativos estão fixados abaixo.
-
-🔗 [Ver todos os meus repositórios](https://github.com/jefilds2?tab=repositories)
+[![Repositórios](https://img.shields.io/badge/Ver_meus_repositórios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jefilds2?tab=repositories)
 
 ---
 
 ## 📚 Em evolução contínua
 
-Além dos projetos profissionais, sigo aprofundando conhecimentos em:
+Sigo aprofundando conhecimentos em:
 
-`TypeScript` • `Arquitetura Back-end` • `Testes` • `Clean Code` • `APIs` • `Segurança` • `Docker` • `Inteligência Artificial`
+`Arquitetura Back-end` • `Testes` • `Clean Code` • `Segurança` • `Docker` • `Inteligência Artificial`
 
 ---
 
