@@ -1,196 +1,140 @@
-# Jefferson Miranda
+<div align="center">
 
-**Full Stack Developer | React.js | JavaScript | Node.js | PHP | MySQL | MongoDB**
+# 👋 Olá! Eu sou Jefferson Miranda
 
-📍 Guanhães, Minas Gerais, Brazil  
-📧 [jefferson.bioconsultor@gmail.com](mailto:jefferson.bioconsultor@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/jefferson-miranda-dfs/) • [Portfolio](https://jeffersonmiranda.netlify.app) • [GitHub](https://github.com/jefilds2) • [Classi Livre Autos](https://classilivreautos.com)
+### Desenvolvedor Full Stack | React • TypeScript • JavaScript • Node.js • PHP
 
----
+Construindo aplicações web, sistemas e soluções digitais para problemas reais.
 
-## About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jefferson_Miranda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-miranda-dfs/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Ver_projetos-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://jeffersonmiranda.netlify.app)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefferson.bioconsultor@gmail.com)
 
-I am a **Full Stack Developer** with hands-on experience building **responsive web applications**, **admin panels**, **authentication systems**, **REST API integrations**, and **SEO-oriented websites**.
-
-My main stack includes **React.js**, **JavaScript (ES6+)**, **Node.js**, **PHP**, **HTML5**, **CSS3**, **MySQL**, **PostgreSQL**, and **MongoDB**.
-
-I am currently positioning myself for opportunities such as **Junior Full Stack Developer**, **Junior Front-End Developer**, and **Web Developer**, with a strong focus on practical projects, clean structure, and continuous growth.
-
-I come from an educational and biomedical background, which strengthened my **communication**, **problem-solving**, **documentation**, and **continuous learning** skills. Today, I focus on creating practical digital solutions with clean structure, performance, and real business value.
+</div>
 
 ---
 
-## Professional Keywords
+## 🚀 Sobre mim
 
-**Full Stack Developer**, **Junior Full Stack Developer**, **Front-end Developer**, **Junior Front-end Developer**, **Web Developer**, **Junior Web Developer**, **React Developer**, **JavaScript Developer**, **Node.js Developer**, **PHP Developer**, **REST APIs**, **Webhooks**, **Responsive Design**, **Mobile-First**, **SEO**, **Performance Optimization**, **Git**, **GitHub**, **MySQL**, **PostgreSQL**, **MongoDB**, **CRUD Applications**, **Admin Dashboard**, **Authentication**, **Deployment**, **Freelance Developer**.
+Sou **Desenvolvedor Full Stack** e atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
----
+Atuo no desenvolvimento de aplicações web e soluções para negócios, participando desde o entendimento dos requisitos até a implementação, integração com serviços externos, banco de dados, testes, versionamento e deploy.
 
-## Tech Stack
+Gosto especialmente de transformar necessidades reais em software funcional — seja um e-commerce, sistema administrativo, automação ou presença digital para uma empresa.
 
-### Front-End
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Responsive Design
-- Mobile-First
-- CSS Grid
-- Flexbox
-- Tailwind CSS
-- Styled Components
-- Material UI
-
-### Back-End
-- Node.js
-- Express.js
-- PHP
-- REST APIs
-- Webhooks
-- Authentication with JWT
-- Bcrypt
-
-### Databases
-- MySQL
-- PostgreSQL
-- MongoDB
-
-### Tools
-- Git
-- GitHub
-- npm
-- pnpm
-- yarn
-- Netlify
-- Render
-- cPanel
-- Vercel
-
-### Good Practices
-- SEO
-- Performance Optimization
-- Code Versioning
-- Component Reusability
-- API Integration
-- Basic Testing
-- Cross-browser Compatibility
+Minha experiência anterior na saúde e na docência também fortaleceu características que levo para o desenvolvimento: **raciocínio analítico, responsabilidade, documentação, organização e comunicação técnica**.
 
 ---
 
-## Featured Projects
+## 💻 Tech Stack
 
-### Classi Livre Autos
-A regional automotive marketplace platform focused on connecting buyers, sellers, and automotive service providers.
+### Front-end
 
-**Highlights:**
-- Vehicle listing system
-- Automotive services catalog
-- Admin panel
-- User authentication
-- SEO-focused structure
-- Public and private flows
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Stack:** PHP, MySQL, JavaScript, HTML5, Tailwind CSS
+### Back-end
 
-🔗 [Live Project](https://classilivreautos.com)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
----
+### Bancos de dados
 
-### E-commerce Hamburgueria
-A full stack food ordering application developed as part of my learning journey, including catalog, authentication, cart, checkout, and admin features.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Highlights:**
-- Responsive front-end with React
-- Product and category management
-- Authentication flow
-- Cart and checkout
-- Stripe integration
-- Admin area
+### Ferramentas e integrações
 
-**Stack:** React.js, Vite, Node.js, Express.js, Sequelize, PostgreSQL, MongoDB, JWT, Bcrypt, Stripe
-
-🔗 [Repository](https://github.com/jefilds2/ecommerce-burgueria)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
-### Arena Survival AI Boss
-A JavaScript game project featuring a boss powered by adaptive AI logic.
+## 🎯 O que eu faço
 
-**Highlights:**
-- Game logic in JavaScript
-- Front-end rendering with PixiJS
-- Boss behavior driven by AI integration
-- Progressive difficulty system
-
-**Stack:** JavaScript, PixiJS, Express.js
-
-🔗 [Repository](https://github.com/jefilds2/arena-survival-ai-boss)
+- ⚛️ Desenvolvimento de interfaces modernas e responsivas com **React**
+- ⚙️ Desenvolvimento de back-end e **APIs REST**
+- 🗄️ Integração com bancos **SQL e NoSQL**
+- 🔐 Autenticação, controle de acesso e áreas administrativas
+- 🔗 Integrações com APIs, webhooks e serviços externos
+- 💳 Implementação de fluxos de pagamentos
+- 📊 Desenvolvimento de dashboards e sistemas de gestão
+- 🚀 Deploy, manutenção, SEO técnico e otimização de aplicações
 
 ---
 
-### Hotel Website
-A real business website project designed as a landing page with SEO focus and administrative structure planning.
+## 🧠 IA no meu processo de desenvolvimento
 
-**Highlights:**
-- Business presentation page
-- Local SEO structure
-- Room and occupancy management planning
-- Public and admin-oriented architecture
+Utilizo ferramentas de **Inteligência Artificial como apoio ao desenvolvimento de software**, principalmente em planejamento, pesquisa técnica, debugging, análise de alternativas, revisão de código, testes e documentação.
 
-**Stack:** HTML5, CSS3, JavaScript, PHP, MySQL
+A IA faz parte do meu fluxo de produtividade, mas não substitui o entendimento técnico: **analiso, valido e testo as soluções antes de incorporá-las aos projetos**.
 
-🔗 [Repository](https://github.com/jefilds2/Hotel-Landing-sistem)
+Também venho explorando aplicações de IA diretamente em software por meio de APIs e automações.
 
 ---
 
-## What I Can Contribute
+## 🛠️ Projetos reais
 
-- Build responsive and user-friendly web interfaces
-- Develop full stack web applications
-- Integrate REST APIs and webhooks
-- Create admin panels and CRUD systems
-- Work with relational and NoSQL databases
-- Improve SEO and web performance
-- Organize code with Git and GitHub
-- Learn fast and adapt to real project demands
+Os repositórios fixados neste perfil representam projetos selecionados que desenvolvi para resolver necessidades reais.
 
----
+Neles é possível encontrar exemplos de:
 
-## Background
+- aplicações Full Stack;
+- e-commerce;
+- sistemas administrativos;
+- autenticação e segurança;
+- bancos de dados;
+- pagamentos e webhooks;
+- integrações com serviços externos;
+- aplicações empresariais responsivas;
+- SEO e performance;
+- documentação técnica e decisões de arquitetura.
 
-My professional background in **Biomedicine** helped me develop a structured and analytical way of thinking that I now apply to software development.
-
-In laboratory and technical routines, I learned to understand processes end to end, organize execution steps clearly, follow logical sequences, and focus on accuracy to achieve reliable outcomes. These same principles are highly relevant in programming, especially in **algorithms, back-end logic, debugging, data handling, and system organization**.
-
-This background, combined with my experience in education, also strengthened my communication, documentation, and problem-solving skills.
+👇 **Confira os projetos fixados logo abaixo.**
 
 ---
 
-## Education
+## 📊 GitHub Stats
 
-- **Dev Club** — Full Stack Development *(in progress)*
-- **Postgraduate Specialization in Genetics** — Unyleya
-- **Bachelor's Degree in Biomedicine** — Faculdade Única
-- **Microcomputers and Networks** — SENAI FIEMG
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jefilds2&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br)
 
-## Contact
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jefilds2&layout=compact&theme=github_dark&hide_border=true)
 
-I am open to opportunities as:
-
-- **Full Stack Developer**
-- **Junior Full Stack Developer**
-- **Front-end Developer**
-- **Junior Front-end Developer**
-- **Web Developer**
-- **React Developer**
-- **PHP Developer**
-
-📧 [jefferson.bioconsultor@gmail.com](mailto:jefferson.bioconsultor@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/jefferson-miranda-dfs/)  
-🌐 [Portfolio](https://jeffersonmiranda.netlify.app)
+</div>
 
 ---
 
-Thanks for visiting my profile.
+## 📚 Em evolução contínua
+
+Além dos projetos profissionais, sigo aprofundando conhecimentos em:
+
+`TypeScript` • `Arquitetura Back-end` • `Testes` • `Clean Code` • `APIs` • `Segurança` • `Docker` • `Inteligência Artificial`
+
+---
+
+## 🤝 Vamos conversar?
+
+Estou sempre interessado em trocar experiências sobre desenvolvimento, tecnologia e projetos que resolvam problemas reais.
+
+📧 **E-mail:** [jefferson.bioconsultor@gmail.com](mailto:jefferson.bioconsultor@gmail.com)  
+💼 **LinkedIn:** [Jefferson Miranda](https://www.linkedin.com/in/jefferson-miranda-dfs/)  
+🌐 **Portfólio:** [jeffersonmiranda.netlify.app](https://jeffersonmiranda.netlify.app)
+
+---
+
+<div align="center">
+
+### 💡 Código é ferramenta. O objetivo é resolver problemas e criar valor.
+
+</div>
