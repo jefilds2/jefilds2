@@ -109,8 +109,7 @@ Sigo aprofundando conhecimentos em:
 Estou sempre interessado em trocar experiências sobre desenvolvimento, tecnologia e projetos que resolvam problemas reais.
 
 📧 **E-mail:** [jefferson.bioconsultor@gmail.com](mailto:jefferson.bioconsultor@gmail.com)  
-📸 **Instagram:** [@jeffemaker](https://www.instagram.com/jeffemaker/) 
-
+📸 **Instagram:** [@jeffemaker](https://www.instagram.com/jeffemaker/)  
 💼 **LinkedIn:** [Jefferson Miranda](https://www.linkedin.com/in/jefferson-miranda-dfs/)  
 🌐 **Portfólio:** [jeffersonmiranda.netlify.app](https://jeffersonmiranda.netlify.app)
 
