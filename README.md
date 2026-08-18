@@ -110,6 +110,7 @@ Estou sempre interessado em trocar experiências sobre desenvolvimento, tecnolog
 
 📧 **E-mail:** [jefferson.bioconsultor@gmail.com](mailto:jefferson.bioconsultor@gmail.com)  
 📸 **Instagram:** [@jeffemaker](https://www.instagram.com/jeffemaker/) 
+
 💼 **LinkedIn:** [Jefferson Miranda](https://www.linkedin.com/in/jefferson-miranda-dfs/)  
 🌐 **Portfólio:** [jeffersonmiranda.netlify.app](https://jeffersonmiranda.netlify.app)
 
